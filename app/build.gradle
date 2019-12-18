@@ -40,9 +40,9 @@ android {
         }
     }
 
-    testOptions {
-        execution 'ANDROID_TEST_ORCHESTRATOR'
-    }
+//    testOptions {
+//        execution 'ANDROID_TEST_ORCHESTRATOR'
+//    }
 
     flavorDimensions "default"
 
